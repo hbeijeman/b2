@@ -1,3 +1,3 @@
-module github.com/benbusby/b2
+module github.com/hbeijeman/b2
 
-go 1.20
+go 1.21
